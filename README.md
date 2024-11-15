@@ -18,4 +18,10 @@ Backend Framework: Node.js, Express.js
 Database: MongoDB
 Other Tools: Mongoose (ODM), dotenv (Environment variables), CORS (Cross-Origin Resource Sharing)
 
+Development and Testing
+Run the Server in Development Mode: npm run dev
+
+Test API Endpoints:
+Use Postman or Thunder Client to test the endpoints.
+
 The server will run on http://localhost:3000/api/todos
